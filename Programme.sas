@@ -5,3 +5,6 @@
 
 %let toto=1;
 %let titi=2;
+
+/*Modif*/
+%put toto;
